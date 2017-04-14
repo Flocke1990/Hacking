@@ -1,0 +1,68 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%				GENERAL					         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+cat			verknüpfen von dateien
+cd			change directory
+cp			copy
+date			datum und zeit
+echo			anzeigen von texten
+exit			exit
+info			hilfe
+ln			link zu datei oder verzeichnis
+ls			auflistung aller dateien
+mkdir			ordner erstellen
+mmv			multiple move
+mv			move
+pwd			print working directory
+rm			remove
+rmdir			remove directory
+sudo			toor rechte für user
+unlink			löschen einer datei
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%				NETWORK					         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+dig			dns namensauflösung
+ifconfig		interface configuration
+iwconfig		wlan config
+netstat			auflistung offener ports und bestehender verbindungen
+ping			erreichbarkeit prüfen
+route			routingtabelle
+trace			routenverfolgung
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%				DATEI					         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+dirname			rückgabe des pfades
+find			suche nach dateien
+grep			durchsuchen von dateien
+rename			dateien umbenennen
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%			      KURZBEFEHLE  				         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+alias			vergabe von kurznamen an kommandos
+clear			clear screen
+lscpu			anzeige von przessor informationen
+lshw			anzeige von hardware informationen
+seq			sequenzen von zahlen erzeugen
+wc			word count zählen von wörtern, zeilen und zeichen
+whoami
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%				SYSTEM					         %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ps			ausgabe aller laufenden prozesse
+kill			kill process-id
+free			ausgabe des rams
+pkill			kill process-name
+pstree			process tree
+top			prozessorauslastung
+uptime			laufzeit und auslastung des computers
+sl
+
+
+
+
+
+

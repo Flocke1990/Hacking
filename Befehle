@@ -1,0 +1,12 @@
+Befehle:
+-kompilieren			gcc <programmname>
+-kompiliertes Programm		./a.out
+-Binary untersuchen (AT&T)	objdump -D a.out | grep -A20 main.:
+-Binary untersuchen (Intel)	objdump -M intel -D a.out | grep -A20 main.:
+-Debug				gdb -q ./a.out
+				break main
+				run
+				info  registers
+				quit
+-Disassembler Intel		set disassembly intel
+-Disassembler config		
